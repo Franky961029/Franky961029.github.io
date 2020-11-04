@@ -1,0 +1,74 @@
+estilo.css
+
+h2 {
+	color: red;
+}
+
+.texta {
+	text-align: justify;
+}
+
+h1 {
+	color:#005883;
+	font-family: serif;
+	text-align: center;
+}
+
+.tabla {
+	padding: 20px;
+	color: black;
+	
+
+}
+
+.tabla2 {
+	padding: 100px;
+	color: yellow; 
+	background-color:#F0B429;
+
+}
+
+.tabla_div{
+	padding: 20px;
+	background-color:#005883;
+	color:#F0B429; 
+
+}
+
+.tabla_div1{
+	padding: 20px;
+	background-color:#F0B429;
+
+}
+
+
+.titulo{
+	text-align: center;
+	font-size: larger;
+
+}
+
+h2{
+	color:#B3B3B3;
+	font-family: unset;
+	text-decoration-line: overline;
+
+
+}
+
+.letra{
+	font-size:large;
+}
+	
+.tabla1{
+	width: 80%;
+	margin: 40px;
+
+}
+
+h3{
+	color:#005883;
+	font-family: sans-serif;
+	text-decoration-line: overline;
+	
+
